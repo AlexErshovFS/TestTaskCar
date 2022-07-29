@@ -1,0 +1,48 @@
+D:\C# Tests\TestCar\TestCar\bin\Debug\net5.0\TestCar.exe
+D:\C# Tests\TestCar\TestCar\bin\Debug\net5.0\TestCar.deps.json
+D:\C# Tests\TestCar\TestCar\bin\Debug\net5.0\TestCar.runtimeconfig.json
+D:\C# Tests\TestCar\TestCar\bin\Debug\net5.0\TestCar.runtimeconfig.dev.json
+D:\C# Tests\TestCar\TestCar\bin\Debug\net5.0\TestCar.dll
+D:\C# Tests\TestCar\TestCar\bin\Debug\net5.0\ref\TestCar.dll
+D:\C# Tests\TestCar\TestCar\bin\Debug\net5.0\TestCar.pdb
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.csproj.AssemblyReference.cache
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.AssemblyInfoInputs.cache
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.AssemblyInfo.cs
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.csproj.CoreCompileInputs.cache
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.dll
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\ref\TestCar.dll
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.pdb
+D:\C# Tests\TestCar\TestCar\obj\Debug\net5.0\TestCar.genruntimeconfig.cache
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.csproj.AssemblyReference.cache
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.GeneratedMSBuildEditorConfig.editorconfig
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.AssemblyInfoInputs.cache
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.AssemblyInfo.cs
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.csproj.CoreCompileInputs.cache
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.dll
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\ref\TestCar.dll
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.pdb
+d:\C# Tests\TestCar  no CarType\TestCar\bin\Debug\net5.0\TestCar.exe
+d:\C# Tests\TestCar  no CarType\TestCar\bin\Debug\net5.0\TestCar.deps.json
+d:\C# Tests\TestCar  no CarType\TestCar\bin\Debug\net5.0\TestCar.runtimeconfig.json
+d:\C# Tests\TestCar  no CarType\TestCar\bin\Debug\net5.0\TestCar.runtimeconfig.dev.json
+d:\C# Tests\TestCar  no CarType\TestCar\bin\Debug\net5.0\TestCar.dll
+d:\C# Tests\TestCar  no CarType\TestCar\bin\Debug\net5.0\ref\TestCar.dll
+d:\C# Tests\TestCar  no CarType\TestCar\bin\Debug\net5.0\TestCar.pdb
+d:\C# Tests\TestCar  no CarType\TestCar\obj\Debug\net5.0\TestCar.genruntimeconfig.cache
+d:\C# Tests\CarsTestTask\TestCar\bin\Debug\net5.0\TestCar.exe
+d:\C# Tests\CarsTestTask\TestCar\bin\Debug\net5.0\TestCar.deps.json
+d:\C# Tests\CarsTestTask\TestCar\bin\Debug\net5.0\TestCar.runtimeconfig.json
+d:\C# Tests\CarsTestTask\TestCar\bin\Debug\net5.0\TestCar.runtimeconfig.dev.json
+d:\C# Tests\CarsTestTask\TestCar\bin\Debug\net5.0\TestCar.dll
+d:\C# Tests\CarsTestTask\TestCar\bin\Debug\net5.0\ref\TestCar.dll
+d:\C# Tests\CarsTestTask\TestCar\bin\Debug\net5.0\TestCar.pdb
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.csproj.AssemblyReference.cache
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.GeneratedMSBuildEditorConfig.editorconfig
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.AssemblyInfoInputs.cache
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.AssemblyInfo.cs
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.csproj.CoreCompileInputs.cache
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.dll
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\ref\TestCar.dll
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.pdb
+d:\C# Tests\CarsTestTask\TestCar\obj\Debug\net5.0\TestCar.genruntimeconfig.cache
